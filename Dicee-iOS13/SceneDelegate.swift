@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Test
 //
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Daniel Tchannikov on 13/06/2019.
+//  Copyright © 2019 GridaHQ. All rights reserved.
 //
 
 import UIKit
